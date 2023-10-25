@@ -1,0 +1,20 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=first
+*Date=16:44:47
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;35.3875;-30.6211;0;Bottom;Arduino UNO
+2;;mq-3;38.4189;-36.1611;0;Bottom;mq137
+3;;0603 [SMD];73.939;-54.7511;0;Top;LED
+4;;;74.7889;-48.4011;0;Bottom;Buzzer
+5;220;0603 [SMD];79.019;-54.7511;0;Top;R1
